@@ -59,7 +59,7 @@ skips = ["*_test.py", "*/test_*.py"]
 
 [dependency-groups]
 dev = [
-    "bandit[toml]>=1.8.6",
+    "bandit[toml]>=1.9.4",
     "black>=25.1.0",
     "coverage>=7.10.1",
     "mypy>=1.17.0",
